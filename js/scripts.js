@@ -19,7 +19,7 @@ if (result >= 5 && result <= 7) {
   $(".result").text("Conservative");
 } else if (result >= 8 && result <= 12) {
   $(".result").text("Moderate");
-} else if (result >12) {
+} else if (result > 12) {
   $(".result").text("Liberal");
 } else {
   alert("Please fill out all the quiz questions!");
