@@ -1,3 +1,7 @@
 .container {
   padding-top: 45px;
 }
+
+.resultsDiv {
+  display: none;
+}
