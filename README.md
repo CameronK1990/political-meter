@@ -21,7 +21,5 @@ This page allows users to answer a quiz regarding their political beliefs and va
 Copyright(c) 2021 anmedev, Ella Tanttu, Cameron Kronsbein
 ## Contact
 * Please contact me at 75595437+anmedev@users.noreply.github.com with any questions!
-\
 * Please contact Ella at ellajtanttu@gmail.com with any questions!
-\
 * Please contact Cameron at cameron.kronsbein@gmail.com with any questions!
